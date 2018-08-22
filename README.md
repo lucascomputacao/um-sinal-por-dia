@@ -10,13 +10,14 @@ Tecnologias utilizadas no projeto
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
 - [Pug](https://pugjs.org/api/getting-started.html)
+- [Jasmine](https://jasmine.github.io/2.0/node.html)
 
 ## Instalação
 
 Faça um clone do repositório:
 
 ```sh
-git clone https://github.com/kidh0/um-sinal-por-dia.git    
+git clone https://github.com/kidh0/um-sinal-por-dia.git
 ```
 
 Instale as dependências:
